@@ -32,3 +32,8 @@ A Discord bot with welcome messages, simple word moderation, and scheduled water
 - Manage Messages
 
 Never commit or share `.env`; it contains your bot token.
+
+## Demo
+https://discord.com/oauth2/authorize?client_id=1563585239060844564&permissions=84992&integration_type=0&scope=bot+applications.commands
+## Test Server
+https://discord.gg/zNHhn3jXHH
